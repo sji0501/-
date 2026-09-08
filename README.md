@@ -2,7 +2,7 @@
 
 ## 자기소개
 
-안녕하세요! 저는 홍길동입니다. GitHub Markdown을 배우는 중입니다.
+안녕하세요! 저는 손용국입니다. GitHub Markdown을 배우는 중입니다.
 
 ## 관심 분야
 
@@ -36,3 +36,5 @@ greet("홍길동")
 ## 링크와 이미지
 
 [Google로 가기](https://www.google.com)
+
+![고양이 사진](https://t3.ftcdn.net/jpg/01/04/40/06/360_F_104400672_zCaPIFbYT1dXdzN85jso7NV8M6uwpKtf.jpg)
